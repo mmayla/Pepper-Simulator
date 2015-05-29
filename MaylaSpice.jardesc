@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="ModelingAssignment#2/MaylaSpice.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/ModelingAssignment#2/MaylaSpice.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=ModelingAssignment\#2/src&lt;{Source.java[Source" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/ModelingAssignment#2/.classpath"/>
+        <file path="/ModelingAssignment#2/.project"/>
+        <javaElement handleIdentifier="=ModelingAssignment\#2/src"/>
+        <folder path="/ModelingAssignment#2/lib"/>
+    </selectedElements>
+</jardesc>
